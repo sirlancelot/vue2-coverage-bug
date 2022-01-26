@@ -1,0 +1,11 @@
+// Vitest Snapshot v1
+
+exports[`mounts 1`] = `
+"<v-app-stub id=\\"app\\">
+  <v-main-stub>
+    <v-container-stub><img alt=\\"Vue logo\\" src=\\"/src/assets/logo.png?import\\">
+      <helloworld-stub msg=\\"Hello Vue 2 + TypeScript + Vite\\"></helloworld-stub>
+    </v-container-stub>
+  </v-main-stub>
+</v-app-stub>"
+`;
